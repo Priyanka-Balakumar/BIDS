@@ -24,6 +24,6 @@ This ESP32-based IoT prototype provides continuous perimeter monitoring by combi
 ---
 
 ## ## Setup
-1.  **Configure Blynk**: Use Template ID `TMPL3zy6CP9tP` and the provided Auth Token.
+1.  **Configure Blynk**: Use Template ID `xxxx` and the provided Auth Token.
 2.  **Connectivity**: Update `ssid` and `pass` with your network credentials.
 3.  **Deployment**: The system uses India Standard Time (UTC +5:30) for event logging
